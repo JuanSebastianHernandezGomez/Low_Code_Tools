@@ -9,7 +9,7 @@ PyGWalker can simplify your Jupyter Notebook data analysis and data visualizatio
 
 Get more information on [GitHub](https://github.com/Kanaries/pygwalker)
 
-![PyGWalker](images/pygwalker.png)  
+![PyGWalker](Images/pygwalker.png)  
 
 
 - Visual Python:
@@ -18,7 +18,7 @@ Visual Python is an open source project started for students who struggle with c
 
 Get more information on [Visual Python](https://visual-python.gitbook.io/docs/getting-started/welcome-to-visual-python)
 
-![VisualPython](imagesVisualPython.gif) 
+![VisualPython](Images/VisualPython.gif) 
 
 - YData Profiling:
 
@@ -26,7 +26,7 @@ Is a leading package for data profiling, that automates and standardizes the gen
 
 Get more information on [Ydata Profiling](https://docs.profiling.ydata.ai/4.6/)
 
-![YData Profiling](images/ydata-profiling.gif) 
+![YData Profiling](Images/ydata-profiling.gif) 
 
 ## Load library
 
