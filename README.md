@@ -36,8 +36,4 @@ Install python library
 pip install pygwalker
 pip install ydata-profiling
 ```
-    
-## Author
-
-- [@Sebastian Hernandez](https://github.com/JuanSebastianHernandezGomez/)
 
